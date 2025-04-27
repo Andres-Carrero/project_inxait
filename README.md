@@ -10,7 +10,7 @@
 ## Paso a paso
 - Clonar el proyecto: 
 
-git clone https://github.com/Andres-Carrero/project_grupo_alianza.git
+git clone https://github.com/Andres-Carrero/project_inxait.git
 
 - Instalar Dependencias:
 (composer install, npm install)
