@@ -1,0 +1,39 @@
+.styleBody {
+    height: 92vh;
+}
+
+.background {
+    background-image: url('../resources/background-light.jpg');
+    background-repeat: initial;
+}
+
+.fs-10 {
+    font-size: 10px;
+}
+
+.hidden {
+    display: none;
+}
+
+.justify{
+    text-align: justify;
+    font-size: 12px;
+}
+
+.w-25 {
+    width: 45px !important;
+}
+
+.pRelative {
+    position: relative;
+    width: 300px;
+}
+
+.abs {
+    position: absolute;
+    right: -35px;
+    top: 20vh;
+    font-size: 25px;
+    font-weight: bold;
+}
+
